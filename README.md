@@ -8,8 +8,7 @@ tutorial to learn how to use a software platform.
 
 After finishing that exercise, complete this [one](https://www.skills.google/focuses/563?parent=catalog) 
 This will require a Google Skills credit. Info on how to utilize credits will be
-provided in class. You can individually request 200 from [https://services.google.com/fb/forms/googlecloudskillsbooststudenttrainingcreditsapplication/](https://services.google.com/fb/forms/googlecloudskillsbooststudenttrainingcreditsapplication/)
-
+provided in class. You can individually request 200 from [here](https://services.google.com/fb/forms/googlecloudskillsbooststudenttrainingcreditsapplication/)
 
 At the end of the second lab, edit a file called test.txt.  Write your name into that file.  
 Then, in the gcloud shell run "cat test.txt" and take a screen shot.
